@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **theDRB123/theDRB123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello there !! 
+### name's dhruv
+A Developer - under construction , CSE undergrad , 
+i like to make stuff
+
+Currently Learning
+C# , ASP.net , NodeJS , mySQL , c & c++
+
+reach out to me ,
+
+LinkedIn :- 
+
+
+
+
