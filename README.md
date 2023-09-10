@@ -1,17 +1,12 @@
-<div style="
-background-color:black; border-radius:10px; padding:20px
-">
-<h1 style="color:white">Hello there !!!</h1> 
+<div align="center">
+	<br>
+	<a href="header.svg">
+		<img src="header.svg" width="800" height="435" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
-<h3>name's Dhruv</h3>
-A Developer under-construction , CSE undergrad
-
-and i like to make software thingys 
-
-Currently Learning :
-*C# , ASP.net , NodeJS , mySQL , c & c++*
-
-reach out to me ,
+### Find me here, 
 
 <!-- make a div with white background -->
 
@@ -32,7 +27,3 @@ justify-content:space-around;
 </div>
 
 </div>
-
-
-
-
