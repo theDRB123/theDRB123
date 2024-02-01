@@ -1,9 +1,7 @@
 <div align="center">
-	<br>
-	<a href="header.svg">
-		<img src="header.svg" width="800" height="535" alt="Click to see the source">
-	</a>
-	<br>
+    <br>
+    <img src="header.svg" width="800" height="535" alt="Nothing, its just an svg...">
+    <br>
 </div>
 
 ### Find me here, 
